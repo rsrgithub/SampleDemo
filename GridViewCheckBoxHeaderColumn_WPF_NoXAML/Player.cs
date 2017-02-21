@@ -29,6 +29,7 @@ namespace GridViewCheckBoxHeaderColumn_WPF_NoXAML
 					this.name = value;
 					this.OnPropertyChanged("Name");
 				}
+                //some changes
 			}
 		}
 
