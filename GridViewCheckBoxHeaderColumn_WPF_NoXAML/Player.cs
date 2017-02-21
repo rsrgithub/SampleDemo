@@ -30,6 +30,8 @@ namespace GridViewCheckBoxHeaderColumn_WPF_NoXAML
 					this.OnPropertyChanged("Name");
 				}
                 //some changes
+
+                //Some more changes in my branch
 			}
 		}
 
